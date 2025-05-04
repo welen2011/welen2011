@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 ![Goose](https://em-content.zobj.net/source/apple/391/goose_1fabf.png)
 
 <!--
 **welen2011/welen2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
